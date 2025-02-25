@@ -1,9 +1,9 @@
 # Simple_Rule_Based_ChatBot
 This is a simple Rule Based ChatBot.
-You can clone the repo using the command
->git clone <repo link>
+You can clone the repo using the command,
+git clone <repo link>
 then in your terminal ,
->python chatbot.py
+python chatbot.py
 Then a simple Rule Based ChatBot will be executed.
 To exit the chatbot type exit.
 This Makes use of the Module Called Regular Expression which , finds the similar words in the text and provides predefined outputs.
